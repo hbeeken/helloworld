@@ -9,7 +9,7 @@ public class SaySomething {
 	}
 	
 	public void foo() {
-		System.out.println("foo");
+		System.out.println("foo bar foo");
 	}
 
 }
